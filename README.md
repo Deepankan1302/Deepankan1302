@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Deepankan
+- 👋 Hi, I’m Deepankan Srivastav
 - 👀 I’m interested in Front End Development
 - 🌱 I’m currently in my B.tech #th year
 - 📫 How to reach me through my linkedin profile mentioned in my profile
